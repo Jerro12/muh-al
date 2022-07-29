@@ -1,0 +1,68 @@
+* {
+    padding: 2px;
+    background-color:black;
+}
+
+
+.judul {
+    margin-bottom: 5px;
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.bulan {
+    text-align:center;
+    color: blue;
+    width: 1000px;
+    height: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.red {
+    color: red;
+    
+}
+
+.kalender {
+    width: 500px;
+    text-align: center;
+    font-size:80px;
+    color: red;
+}
+
+.kata {
+    color: blue;
+    border-radius: 10px;
+    text-align: center;
+}
+.nama {
+    color: blue;
+    margin-top: 5px;
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+}
+
+.hari {
+    color: blue;
+    border-radius: 8px;
+}
+.keterangan {
+    color:red;
+    margin-top:-10px;
+    text-align: left;
+    font-size:x-small;
+}
+
+#bulan {
+    color: green;
+    border-radius: 10px;
+
+}
+
+#keterangan {
+    color: red;
+    font-size:x-small;
+}
+
+
+
